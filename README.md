@@ -13,7 +13,7 @@
 
 - 📦 **Packages & Libraries**
   - **Python**: Pandas, NumPy, TensorFlow, Scikit-learn, PyTorch, PyVCF, HTSeq, CNVkit, Biopython, PySAM, Scikit-bio, HTSeq, DeepTools, Seaborn, Matplotlib
-  - **R**: ggplot2, dplyr, tidyr, shiny, caret, lubridate, GenomicRanges, edgeR, DESeq2, Bioconductor, quantmod, TTR, xts, zoo
+  - **R**: ggplot2, dplyr, tidyr, shiny, caret, lubridate, Seurat, GenomicRanges, limma, edgeR, DESeq2, Bioconductor, quantmod, TTR, xts, zoo
   - **C++**: Eigen, Boost, Armadillo, Seqan, Bioc++, QuantLib, TensorFlow
   - **Julia**: DataFrames.jl, Plots.jl, StatsBase.jl, Flux.jl, DifferentialEquations.jl, BioJulia, GenomeAnalysis.jl, QuantEcon.jl
   - **JavaScript**: D3.js, Math.js, JStat, BioJS, JBrowse, Chart.js, ApexCharts, jsQuantLib, TensorFlow
