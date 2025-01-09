@@ -5,7 +5,7 @@
 ## About Me:
 - 💼 Ex-Full Stack Engineer Turned Data Scientist & Epidemiologist | 🚀 AI & Machine Learning Enthusiast
 - 🧠 Passionate about Neurodiverse and Developmental Disability Advocacy & 🤝 Poverty Alleviation
-- ♟️ Tactician |🧩 Puzzle Solver | 🚗 Sports Car Enthusiast | 🌿 Home & Health Curator |🧶 Currently on a seasonal knitting rampage
+- ♟️ Tactician |🧩 Puzzle Solver |  🏍️ Motorcycle Passenger Princess |🧶 Currently on a seasonal knitting rampage
 
 ## 👩🏾‍💻Technologies I Work With:
 - 🖥️ **Languages**: ![Python](https://img.shields.io/badge/Python-Expert-yellow) ![SQL](https://img.shields.io/badge/SQL-Expert-yellow) ![SAS](https://img.shields.io/badge/SAS-Advanced-green) ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-lightblue) ![Julia](https://img.shields.io/badge/Julia-Intermediate-lightblue) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-lightblue) ![HTML](https://img.shields.io/badge/HTML-Expert-yellow) ![CSS](https://img.shields.io/badge/CSS-Expert-yellow)
