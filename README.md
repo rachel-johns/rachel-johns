@@ -4,7 +4,7 @@
 
 ## About Me:
 - 💼 Ex-Full Stack Engineer Turned Data Scientist & Epidemiologist | 🚀 AI & Machine Learning Enthusiast
-- 🧠 Passionate about Neurodiverse and Developmental Disability Advocacy & 🤝 Poverty Alleviation
+- 🧠 Passionate about Opthalmology (Degenerative Eye Disease) 👁️ & Cancer Research 🎗️
 - ♟️ Tactician |🧩 Puzzle Solver |  🏍️ Motorcycle Passenger Princess |🧶 Currently on a seasonal knitting rampage
 
 ## 👩🏾‍💻Technologies I Work With:
