@@ -1,11 +1,11 @@
 # rachel-git
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=5024F7&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Rachel+👋🏾" alt="Hi, I'm Rachel 👋🏾" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=10500&pause=9999&color=5024F7&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Rachel+👋🏾" alt="Hi, I'm Rachel 👋🏾" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=250&color=FB57CE&center=true&vCenter=true&width=1000&height=50&lines=💼+Ex-+Full+Stack+Engineer;Turned+Data+Scientist+&+Epidemiologist" alt="Ex-Full Stack Engineer Turned Data Scientist & Epidemiologist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=250&color=FB57CE&center=true&vCenter=true&width=1000&height=50&lines=💼+Ex-+Full+Stack+Engineer;Turned+Data+Scientist;Informatics+Epidemiologist" alt="Ex-Full Stack Engineer Turned Data Scientist & Informatics Epidemiologist" />
 </p>
 
 ## About Me:
