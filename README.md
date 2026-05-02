@@ -1,9 +1,16 @@
 # rachel-git
 
-# Hi, I'm Rachel 👋
+# Hi, I'm Rachel 👋🏾
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=5024F7FF&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Rachel+👋🏾” alt=“Hi, I'm Rachel 👋🏾” />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=2500&pause=250&color=FB57CE00&center=true&vCenter=true&width=1000&height=50&lines=💼+Ex-+Full+Stack+Engineer;Turned+Data+Scientist+&+Epidemiologist" alt="🚀AI & Machine Learning Enthusiast. Building Scalable Systems" />
+</p>
 
 ## About Me:
-- 💼 Ex-Full Stack Engineer Turned Data Scientist & Epidemiologist | 🚀 AI & Machine Learning Enthusiast
 - 🧠 Passionate about Opthalmology (Degenerative Eye Disease) 👁️ & Cancer Research 🎗️
 - ♟️ Tactician | 🧩 Puzzle Enthusaist (e.g. Sudoku, Minesweeper & cryptography) | 🧶 Knitting sweaters for cats and babies is a hobby of mine
 
@@ -25,7 +32,6 @@
 - 🗂️ **ERP & CRM Systems**: SAP, Microsoft Dynamics 365 (F&O and Dynaway), PeopleSoft, Oracle, NetSuite, Workday, & Salesforce
 
 ## 🔬 Currently Working On:
-- Improving Outcomes for Youth Transitioning from Foster Care (MBA research project)
 - Parental Alienation Trends Analysis (Personal Project, will post repository soon!)
 - Bioinformatics & Genomics Projects (Work Related, not on GitHub)
 - Infectious Disease Analytics in Public Health (Work Related, not on GitHub)
