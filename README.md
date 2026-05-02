@@ -45,4 +45,4 @@
 - ## 📊 GitHub Stats:
 
 ![Rachel's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=rachel-johns&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel-johns&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-one=bice.vercel.app/api/top-langs/?username=rachel-johns&layout=compact&theme=dark)
