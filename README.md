@@ -1,7 +1,7 @@
 # rachel-git
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=9999&color=5024F7&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Rachel+👋🏾" alt="Hi, I'm Rachel 👋🏾" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=99999&color=5024F7&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Rachel+👋🏾" alt="Hi, I'm Rachel 👋🏾" />
 </p>
 
 <p align="center">
