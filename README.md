@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=250&color=FB57CE&center=true&vCenter=true&width=1000&height=50&lines=Ex-Full+Stack+Engineer;Turned+Data+Scientist;AI Enablement Specialist;Informatics+Epidemiologist" alt="Ex-Full Stack Engineer, Turned Data Scientist, AI Enablement Specialist, & Informatics Epidemiologist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=250&color=FB57CE&center=true&vCenter=true&width=1000&height=50&lines=Ex-Full+Stack+Engineer;Turned+Data+Scientist;AI+Enablement+Specialist;Informatics+Epidemiologist" alt="Ex-Full Stack Engineer, Turned Data Scientist, AI Enablement Specialist, & Informatics Epidemiologist" />
 </p>
 
 ## About Me:
